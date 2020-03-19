@@ -1,0 +1,136 @@
+@media only screen and (max-width: 1170px){
+    header{
+        height: 100vh;
+    }
+    .logo{
+        margin-left: 6rem;
+    }
+    .main-nav{
+        margin-right: 7rem;
+    }
+    .row{
+        width: 96rem;
+    }
+}
+@media only screen and (max-width: 1024px){
+    .col1{
+        width: 50%;
+    }
+    .main-nav{
+        display: none;
+    }
+    .serveces_text p{
+        width: 50%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .team_content p{
+        font-size: 1.6rem;
+        margin: 0 auto;
+    }
+    .filter_img img {
+        width: 40rem;
+    }
+    .about_left{
+        float: none;
+    }
+    .about_right{
+        text-align: center;
+    }
+    .about_right p{
+        font-size: 1.5rem;
+        width: 70%;
+        margin: 0 auto;
+    }
+}
+@media only screen and (max-width: 920px){
+    .row{
+        width: 70rem;
+    }
+    .col1{
+        width: 100%;
+    }
+    .skills .col1{
+        width: 50%;
+    }
+    .filter_img img {
+        width: 30rem;
+    }
+    .col3{
+        width: 100%;
+        float: none;
+    }
+    .contact input{
+        margin-top: 1rem;
+    }
+    .contact textarea{
+        margin-top: 1rem;
+    }
+    .serveces_text p{
+        font-size: 2rem;
+    }
+    .team_content p{
+        font-size: 2rem;
+        width: 50%;
+    }
+}
+@media only screen and (max-width: 820px){
+    .row2{
+        width: 50rem;
+    }
+}
+@media only screen and (max-width: 680px){
+    .row2{
+        width: 40rem;
+    }
+    .row{
+        width: 50rem;
+    }
+    .filter_img img {
+        width: 20rem;
+    }
+    .serveces h2{
+        font-size: 2.5rem;
+    }
+    .teams h2{
+        font-size: 2.5rem;
+    }
+    .team_text{
+        font-size: 1.6rem;
+        width: 50%;
+        margin: 0 auto;
+    }
+    .about_us h2{
+        font-size: 2.5rem;
+    }
+    .contact p{
+        font-size: 1.6rem;
+    }
+    h1{
+        font-size: 2rem;
+    }
+    .footer a{
+        font-size: 1.6rem;
+    }
+}
+@media only screen and (max-width: 475px){
+    .row2{
+        width: 30rem;
+    }
+    .row{
+        width: 40rem;
+    }
+    .teams .icons i{
+        padding: 0.4rem 0.7rem;
+    }
+    .team_content p{
+        width: 80%;
+        font-size: 1.6rem;
+    }
+}
+@media only screen and (max-width: 392px){
+    
+    .serveces .service_txt{
+        width: 100%;
+    }
+}
